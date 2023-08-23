@@ -8,7 +8,7 @@ import BackImage from "../public/assets/back-posters.png";
 import Footer from "@/components/Footer";
 import "../app/globals.css";
 
-const API_URL = "http://www.omdbapi.com?apikey=295e20d2";
+const API_URL = "https://www.omdbapi.com?apikey=295e20d2";
 
 interface Movie {
   Title: string;
